@@ -29,7 +29,7 @@ public class AccountController {
 	// 3日目の追加作業です！2
 	// 4日目の追加作業です！
 	// 5日目の追加作業です！
-
+	// 5日目の追加作業です！2
 	// ログイン画面を表示
 	@GetMapping({ "/", "/login", "/logout" })
 	public String index() {
