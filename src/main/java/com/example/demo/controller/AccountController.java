@@ -31,8 +31,6 @@ public class AccountController {
 	
 	// 7-1
 	// 8-1
-	// 8-2
-	
 	
 
 	// ログイン画面を表示
