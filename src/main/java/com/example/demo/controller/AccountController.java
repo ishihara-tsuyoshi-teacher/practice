@@ -20,6 +20,8 @@ public class AccountController {
 	    this.session = session;
 	    this.account = account;
 	}
+	
+	// 初日の作業です！
 
 	// ログイン画面を表示
 	@GetMapping({ "/", "/login", "/logout" })
