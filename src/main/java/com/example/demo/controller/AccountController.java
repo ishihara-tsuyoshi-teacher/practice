@@ -22,6 +22,9 @@ public class AccountController {
 	}
 	
 	// 初日の追加作業です！
+	// 2日目の追加作業です！
+	// 2日目の追加作業です！2
+	// 2日目の追加作業です！3
 
 	// ログイン画面を表示
 	@GetMapping({ "/", "/login", "/logout" })
